@@ -1,4 +1,4 @@
-
+**Projeto base para construção de site utilizando o Vite**
 
 ---
 ## **- Inicial**
