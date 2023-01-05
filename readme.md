@@ -22,6 +22,7 @@
 
 - [ ] :boom: Apagar `import './index.css'`
 - [ ] :boom: Apagar arquivo `./index.css`
+- [ ] :heavy_plus_sign: adicionar linha de importação  `import './assets/styles/main.scss';`
 
 
 #### **App.tsx**
