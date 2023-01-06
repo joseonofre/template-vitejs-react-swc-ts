@@ -69,6 +69,8 @@ Projeto base para construção de site utilizando o **Vite, Tailwindcss, React R
 - [ ] :file_folder: Criar pasta `/src/pages`
 - [ ] -- :file_folder: Criar pasta `/src/pages/Home`
 - [ ] -- -- :file_folder: Criar pasta `/src/pages/Home/Home.tsx` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/pages/Home/Home.tsx)
+- [ ] -- :file_folder: Criar pasta `/src/pages/About`
+- [ ] -- -- :file_folder: Criar pasta `/src/pages/About/About.tsx` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/pages/About/About.tsx)
 - [ ] :file_folder: Criar pasta `/src/assets/images`
 - [ ] :file_folder: Criar pasta `/src/assets/styles`
 - [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_tailwind.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/_tailwind.scss)
