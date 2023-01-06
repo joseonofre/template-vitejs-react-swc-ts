@@ -72,4 +72,3 @@ Projeto base para construção de site utilizando o **Vite, Tailwindcss, React R
 - [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_fonts.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/_fonts.scss)
 - [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_global.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/_global.scss)
 - [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/main.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/main.scss)
-- [ ] :arrow_down: Importar arquivos no  `/src/assets/styles/main.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/main.scss)
