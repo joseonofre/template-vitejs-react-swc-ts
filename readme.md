@@ -16,7 +16,7 @@ Projeto base para construção de site utilizando o **Vite, Tailwindcss, React R
 - [ ] :pencil2: Alterar `<title>Nome</title>`
 - [ ] :pencil2: Adicionar description `<meta name="description" content="Descrição aqui">`
 - [ ] :pencil2: Alterar favicon
-- [ ] [:eyes: Visualizar arquivo com LayoutContext adicionado :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/index.html)
+- [ ] [:eyes: Visualizar arquivo :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/index.html)
 
 
 
