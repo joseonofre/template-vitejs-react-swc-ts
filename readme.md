@@ -16,14 +16,14 @@ Projeto base para construção de site utilizando o **Vite, Tailwindcss, React R
 - [ ] :pencil2: Alterar `<title>Nome</title>`
 - [ ] :pencil2: Adicionar description `<meta name="description" content="Descrição aqui">`
 - [ ] :pencil2: Alterar favicon
-- [ ] [:eyes: Visualizar arquivo com LayoutContext adicionado :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/index.html){:target="_blank"}
+- [ ] [:eyes: Visualizar arquivo com LayoutContext adicionado :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/index.html)
 
 
 
 #### **main.tsx**
 - [ ] :boom: Apagar `import './index.css'`
 - [ ] Importar :arrow_down: `import './assets/styles/main.scss';`
-- [ ] :eyes: Visualizar arquivo com LayoutContext adicionado :link:
+- [ ] [:eyes: Visualizar arquivo :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/main.tsx)
 
 
 #### Apagar arquivos 
@@ -40,7 +40,7 @@ Projeto base para construção de site utilizando o **Vite, Tailwindcss, React R
 
 - [ ] :books: `yarn add vite-plugin-svgr` -- https://www.npmjs.com/package/vite-plugin-svgr
 - [ ] :books: Instalar tailsiwind css -- https://tailwindcss.com/docs/installation/framework-guides
-- [ ] :pencil2: Customizar tailwind.config.cjs  :eyes: Visualizar :link:
+- [ ] :pencil2: Customizar tailwind.config.cjs  [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/tailwind.config.cjs)
 - [ ] :books: `yarn add react-router-dom`  -- https://reactrouter.com/en/main
 - [ ] :books: `yarn add -D sass`
 
@@ -55,21 +55,21 @@ Projeto base para construção de site utilizando o **Vite, Tailwindcss, React R
 
 ## **- Criar estrutura**
 
-- [ ] :page_with_curl: Criar arquivo `/src/routes.tsx` :eyes: Visualizar :link:
+- [ ] :page_with_curl: Criar arquivo `/src/routes.tsx` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/routes.tsx)
 - [ ] :file_folder: Criar pasta `/src/contexts`
-- [ ] -- :page_with_curl: Criar arquivo `/src/contexts/UseLayout.tsx` :eyes: Visualizar  :link:
+- [ ] -- :page_with_curl: Criar arquivo `/src/contexts/UseLayout.tsx` [:eyes: Visualizar  :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/contexts/UseLayout.tsx)
 - [ ] :file_folder: Criar pasta `/src/componets`
-- [ ] -- :page_with_curl: Criar arquivo `/src/components/HeaderMain.tsx` :eyes: Visualizar :link:
-- [ ] -- :page_with_curl: Criar arquivo `/src/components/FooterMain.tsx` :eyes: Visualizar :link:
+- [ ] -- :page_with_curl: Criar arquivo `/src/components/HeaderMain.tsx` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/components/HeaderMain.tsx)
+- [ ] -- :page_with_curl: Criar arquivo `/src/components/FooterMain.tsx` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/components/FooterMain.tsx)
 - [ ] :file_folder: Criar pasta `/src/layouts`
-- [ ] -- :page_with_curl: Criar arquivo `/src/layouts/LayoutMain.tsx` :eyes: Visualizar :link:
+- [ ] -- :page_with_curl: Criar arquivo `/src/layouts/LayoutMain.tsx` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/layouts/LayoutMain.tsx)
 - [ ] :file_folder: Criar pasta `/src/pages`
 - [ ] -- :file_folder: Criar pasta `/src/pages/Home`
-- [ ] -- -- :file_folder: Criar pasta `/src/pages/Home/Home.tsx` :eyes: Visualizar :link:
+- [ ] -- -- :file_folder: Criar pasta `/src/pages/Home/Home.tsx` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/pages/Home/Home.tsx)
 - [ ] :file_folder: Criar pasta `/src/assets/images`
 - [ ] :file_folder: Criar pasta `/src/assets/styles`
-- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_tailwind.scss` :eyes: Visualizar :link:
-- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_fonts.scss` :eyes: Visualizar :link:
-- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_global.scss` :eyes: Visualizar :link:
-- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/main.scss` :eyes: Visualizar :link:
-- [ ] :arrow_down: Importar arquivos no  `/src/assets/styles/main.scss` :eyes: Visualizar :link:
+- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_tailwind.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/_tailwind.scss)
+- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_fonts.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/_fonts.scss)
+- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_global.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/_global.scss)
+- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/main.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/main.scss)
+- [ ] :arrow_down: Importar arquivos no  `/src/assets/styles/main.scss` [:eyes: Visualizar :link:](https://github.com/joseonofre/todo-vitejs-projects/blob/main/src/assets/styles/main.scss)
