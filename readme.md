@@ -1,4 +1,4 @@
-**Projeto base para construção de site utilizando o Vite**
+Projeto base para construção de site utilizando o **Vite, Tailwindcss, React Router, Sass e React lazy**
 
 ---
 ## **- Inicial**
@@ -13,32 +13,36 @@
 #### **index.html**
 
 - [ ] :pencil2: Alterar `lang="en"`  para `lang="pt-BR"`
-- [ ] :pencil2: Alterar title
+- [ ] :pencil2: Alterar `<title>Nome</title>`
+- [ ] :pencil2: Adicionar description `<meta name="description" content="Descrição aqui">`
 - [ ] :pencil2: Alterar favicon
-- [ ] :boom: Apagar arquivo `./public/vite.svg`
+- [ ] :eyes: Visualizar arquivo com LayoutContext adicionado :link:
+
 
 
 #### **main.tsx**
-
 - [ ] :boom: Apagar `import './index.css'`
-- [ ] :boom: Apagar arquivo `./index.css`
-- [ ] :heavy_plus_sign: adicionar linha de importação  `import './assets/styles/main.scss';`
+- [ ] Importar :arrow_down: `import './assets/styles/main.scss';`
+- [ ] :eyes: Visualizar arquivo com LayoutContext adicionado :link:
 
 
-#### **App.tsx**
-
-- [ ] :pencil2: Limpar todo arquivo
-- [ ] :boom: Apagar arquivo `./App.css`
-- [ ] :boom: Apagar arquivo `./assets/react.svg`
+#### Apagar arquivos 
+- [ ] :boom: `./App.tsx`
+- [ ] :boom: `./App.css`
+- [ ] :boom: `./index.css`
+- [ ] :boom: `./assets/react.svg`
+- [ ] :boom: `./public/vite.svg`
 
 ---
 ## **- Intalação de pacotes** 
 
 #### **Essenciais**
 
-- [ ] :books: `yarn add vite-plugin-svgr`  -- https://www.npmjs.com/package/vite-plugin-svgr
+- [ ] :books: `yarn add vite-plugin-svgr` -- https://www.npmjs.com/package/vite-plugin-svgr
 - [ ] :books: Instalar tailsiwind css -- https://tailwindcss.com/docs/installation/framework-guides
+- [ ] :pencil2: Customizar tailwind.config.cjs  :eyes: Visualizar :link:
 - [ ] :books: `yarn add react-router-dom`  -- https://reactrouter.com/en/main
+- [ ] :books: `yarn add -D sass`
 
 #### **Opcionais**
 
@@ -51,23 +55,21 @@
 
 ## **- Criar estrutura**
 
+- [ ] :page_with_curl: Criar arquivo `/src/routes.tsx` :eyes: Visualizar :link:
+- [ ] :file_folder: Criar pasta `/src/contexts`
+- [ ] -- :page_with_curl: Criar arquivo `/src/contexts/UseLayout.tsx` :eyes: Visualizar  :link:
 - [ ] :file_folder: Criar pasta `/src/componets`
-- [ ] -- :page_with_curl: Criar arquivo `/src/components/HeaderMain.tsx`
-- [ ] -- :page_with_curl: Criar arquivo `/src/components/FooterMain.tsx`
+- [ ] -- :page_with_curl: Criar arquivo `/src/components/HeaderMain.tsx` :eyes: Visualizar :link:
+- [ ] -- :page_with_curl: Criar arquivo `/src/components/FooterMain.tsx` :eyes: Visualizar :link:
 - [ ] :file_folder: Criar pasta `/src/layouts`
-- [ ] -- :page_with_curl: Criar arquivo `/src/layouts/LayoutMain.tsx`
+- [ ] -- :page_with_curl: Criar arquivo `/src/layouts/LayoutMain.tsx` :eyes: Visualizar :link:
 - [ ] :file_folder: Criar pasta `/src/pages`
 - [ ] -- :file_folder: Criar pasta `/src/pages/Home`
-- [ ] -- -- :file_folder: Criar pasta `/src/pages/Home/Home.tsx`
+- [ ] -- -- :file_folder: Criar pasta `/src/pages/Home/Home.tsx` :eyes: Visualizar :link:
 - [ ] :file_folder: Criar pasta `/src/assets/images`
 - [ ] :file_folder: Criar pasta `/src/assets/styles`
-- [ ] :page_with_curl: Criar arquivo `/src/assets/styles/_tailwind.scss`
-- [ ] :page_with_curl: Criar arquivo `/src/assets/styles/_fonts.scss`
-- [ ] :page_with_curl: Criar arquivo `/src/assets/styles/_global.scss`
-- [ ] :page_with_curl: Criar arquivo `/src/assets/styles/main.scss`
-- [ ] :arrow_down: Importar arquivos no  `/src/assets/styles/main.scss`
-~~~scss
-@import "./tailwind";
-@import "./fonts";
-@import "./global";
-~~~
+- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_tailwind.scss` :eyes: Visualizar :link:
+- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_fonts.scss` :eyes: Visualizar :link:
+- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/_global.scss` :eyes: Visualizar :link:
+- [ ] -- :page_with_curl: Criar arquivo `/src/assets/styles/main.scss` :eyes: Visualizar :link:
+- [ ] :arrow_down: Importar arquivos no  `/src/assets/styles/main.scss` :eyes: Visualizar :link:
