@@ -1,5 +1,5 @@
 ---
-[Visualizar demonstração](https://todo-vitejs-projects.netlify.app/)
+[Visualizar demonstração](template-vitejs-react-swc-ts.netlify.app)
 
 Projeto base para construção de site utilizando o **Vite, Tailwindcss, React Router, Sass e React lazy**
 
