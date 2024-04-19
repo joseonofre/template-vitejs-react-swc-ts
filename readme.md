@@ -1,7 +1,10 @@
----
-[Visualizar demonstração](template-vitejs-react-swc-ts.netlify.app)
 
 Projeto base para construção de site utilizando o **Vite, Tailwindcss, React Router, Sass e React lazy**
+
+---
+## Visualizar demonstração
+[DEMO](https://template-vitejs-react-swc-ts.up.railway.app)
+
 
 ---
 ## **- Checklist**
@@ -43,5 +46,3 @@ Projeto base para construção de site utilizando o **Vite, Tailwindcss, React R
 - [ ] :books: `yarn add daisyui`  --  [:eyes: Visualizar :link:](https://daisyui.com/)
 
 ---
-
-## **-Estrutura**
