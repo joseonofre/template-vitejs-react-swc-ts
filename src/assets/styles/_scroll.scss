@@ -1,0 +1,20 @@
+/* CRIA BARRA PERSONALIZADA */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #465EFF white;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    background: white;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #465EFF;
+    border-radius: 20px;
+    border: 2px solid white;
+}
